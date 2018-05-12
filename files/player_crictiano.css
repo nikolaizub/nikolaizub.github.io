@@ -8,14 +8,15 @@ margin: 0 auto;
 position: relative;
  }
 #header {
-	position: relative;
+position: relative;
 height:50%;
 min-width:98.2%; 
 border:0;
  border:1px solid #444777;
 font-size: 20pt; 
 color: #edeed5;
-padding: 1px; 
+padding: 0px; 
+margin: 0;
 }
 #header  h1{
 	font-size:38px;color:#696969;
